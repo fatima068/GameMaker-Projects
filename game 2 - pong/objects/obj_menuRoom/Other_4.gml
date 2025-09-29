@@ -1,0 +1,1 @@
+obj_pingPongBall.direction = 80;
